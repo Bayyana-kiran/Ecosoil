@@ -46,7 +46,13 @@ The crop recommendation system has the following features:
 * **Fertilizer recommendation:** The system provides fertilizer recommendations based on the predicted crop and soil conditions.
 * **Cropping techniques:** The system provides cropping techniques to optimize crop yield.
 
-## Screenshots
+## Screenshots & Videos 
+<img width="960" alt="1" src="https://github.com/Bayyana-kiran/Ecosoil/assets/99533113/fc8b2574-b12e-4a41-a622-591a664e0d21">
+<img width="960" alt="2" src="https://github.com/Bayyana-kiran/Ecosoil/assets/99533113/367c1f1e-6fd5-4474-8901-61543b5cb12a">
+<img width="960" alt="3" src="https://github.com/Bayyana-kiran/Ecosoil/assets/99533113/d94d27cb-65b3-46dd-b450-c74fd20181c5">
+
+
+https://github.com/Bayyana-kiran/Ecosoil/assets/99533113/59021a6c-373d-4607-9ffa-a71df7c3731a
 
 
 ## Conclusion
